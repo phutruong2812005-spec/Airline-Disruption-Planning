@@ -11,7 +11,7 @@ This repository is the result of a step-by-step learning journey, initially insp
 The project uses real-world flight data in France (from the ROADEF 2009 Challenge), which includes:
 - **35 Airports**
 - **608 Flights**
-- **85 Aircraft**
+- **85 Aircrafts**
 
 ## 🚀 My Learning Journey (The 3 Phases)
 
