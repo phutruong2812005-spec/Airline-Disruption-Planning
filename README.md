@@ -5,7 +5,7 @@ Weather events are a major threat to the airline industry. When a snowstorm or h
 
 This project tackles the complex decision-making process during such disruptions: **Which flights should be operated, which should be cancelled, and how should aircraft be re-routed to minimize the total revenue lost?**
 
-This repository is the result of a step-by-step learning journey, initially inspired by the [Gurobi Aviation Planning Case Study](https://github.com/Gurobi/modeling-examples), but ultimately rebuilt using **Google OR-Tools** to solve the full-scale problem without commercial license restrictions.
+This repository is the result of a step-by-step learning journey, initially inspired by the [Gurobi Aviation Planning Case Study](https://colab.research.google.com/github/Gurobi/modeling-examples/blob/master/aviation_planning/airlineplanning.ipynb#scrollTo=706f85d8), but ultimately rebuilt using **Google OR-Tools** to solve the full-scale problem without commercial license restrictions.
 
 ## 📊 The Dataset
 The project uses real-world flight data in France (from the ROADEF 2009 Challenge), which includes:
